@@ -91,7 +91,6 @@ class CardFrontLayout {
                           package: 'awesome_card',
                           color: textColor,
                           fontWeight: FontWeight.w500,
-                          fontFamily: 'MavenPro',
                           fontSize: 22,
                         ),
                       ),
@@ -107,7 +106,6 @@ class CardFrontLayout {
                             style: TextStyle(
                                 package: 'awesome_card',
                                 color: textColor,
-                                fontFamily: 'MavenPro',
                                 fontSize: 15),
                           ),
                           SizedBox(
@@ -121,7 +119,6 @@ class CardFrontLayout {
                                 package: 'awesome_card',
                                 color: textColor,
                                 fontWeight: FontWeight.w500,
-                                fontFamily: 'MavenPro',
                                 fontSize: 16),
                           ),
                         ],
@@ -141,7 +138,6 @@ class CardFrontLayout {
                                 package: 'awesome_card',
                                 color: textColor,
                                 fontWeight: FontWeight.w500,
-                                fontFamily: 'MavenPro',
                                 fontSize: 17,
                                 overflow: TextOverflow.ellipsis,
                               ),

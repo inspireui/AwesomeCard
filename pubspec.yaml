@@ -37,15 +37,6 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  fonts:
-    - family: MavenPro
-      fonts:
-        - asset: fonts/MavenPro-Regular.ttf
-          weight: 400
-        - asset: fonts/MavenPro-Medium.ttf
-          weight: 500
-        - asset: fonts/MavenPro-Bold.ttf
-          weight: 700
 
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
